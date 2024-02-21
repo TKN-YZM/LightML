@@ -14,6 +14,7 @@ Bu proje, sesli komutlarla ampul kontrolü sağlayan ve arka planda ampul-zaman 
 
 
 <div align="center">
-  <img  src="https://github.com/TKN-YZM/KlimaML/blob/master/Z1.jpg" alt="Proje Çizim">
-  <img  src="https://github.com/TKN-YZM/KlimaML/blob/master/Z2.jpg" alt="Proje Kod">
+ https://github.com/TKN-YZM/LightML/tree/main/pictrs
+  <img  src="https://github.com/TKN-YZM/LightML/tree/main/pictrs/A.jpg" alt="Proje Çizim">
+  <img  src="https://github.com/TKN-YZM/LightML/tree/main/pictrs/B.jpg" alt="Proje Kod">
 </div>
