@@ -10,7 +10,7 @@ Bu proje, sesli komutlarla ampul kontrolü sağlayan ve arka planda ampul-zaman 
 -Veri Tabanı (SQL)
 
 ## Projenin çalışma mantığı
- Sesli komut ile kişisel asistana "Lambayı Aç" komutu gönderildiği zaman arka planda veri tabanına Arduino ve DHT11 nem ve sıcaklık sensörü ile veriler kaydedilir ve ardından makine öğrnemesi algoritaması (Logistic Reg) ile bu veriler eğitilir ve tahminde bulunması sağlanır. Ardından asistanı her çağırdımız zaman makine tahmin ile otomatik Ampul işlemleri gerçekleştirilir.
+ Sesli komut ile kişisel asistana "Lambayı Aç" komutu gönderildiği zaman arka planda veri tabanına tarih/zaman ve lamba durumu verileri kaydedilir ve ardından makine öğrnemesi algoritaması (Logistic Reg) ile bu veriler eğitilir ve tahminde bulunması sağlanır. Ardından asistanı her çağırdımız zaman makine tahmin ile otomatik Ampul işlemleri gerçekleştirilir.
 
 
 <div align="center">
