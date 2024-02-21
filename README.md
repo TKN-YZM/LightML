@@ -4,7 +4,9 @@ Bu proje, sesli komutlarla ampul kontrolü sağlayan ve arka planda ampul-zaman 
 
 ## Teknolojiler ve Araçlar:
 -Python / Makine Öğrenmesi Algoritmaları 
+
 -Arduino / Röle (5V) / 15W Ampul (Voltajı fark etmez 220V uyumlu olması yeterli)
+
 -Sklearn / Linear Model / LogisticRegression
 -Ses Tanıma Teknolojileri / Speech_recognition / PyAudio / Playsound
 -Veri Tabanı (SQL)
